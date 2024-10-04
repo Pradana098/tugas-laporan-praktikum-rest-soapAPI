@@ -1,5 +1,14 @@
 # TUGAS PRAKTIKUN REST SOAP API
 
+NAMA  : Dimas Januar Pradana
+KELAS : 2A TRPL
+NIM   : 362358302077
+
+
+
+
+
+
 ## Konsumsi Data dengan GET Request.
 - Gunakan kode di atas untuk mengambil daftar post dari https://jsonplaceholder.typicode.com/posts.
 - Tampilkan 5 data pertama dalam bentuk array PHP.
